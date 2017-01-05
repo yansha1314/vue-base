@@ -1,4 +1,4 @@
-# vue-test
+# vue-base
 
 ##目录说明
 - build  项目管理配置
@@ -17,7 +17,7 @@
 - README.md
 - package.json 项目的配置信息及所需模块
 
-`vue-test` 使用了`vue`、`vuex`、`koa`等框架和技术。
+`vue-base` 使用了`vue`、`vuex`、`koa`等框架和技术。
 **使用了许多es6新特性,请使用6.0以上版本的node!**
 基于restful，nodejs的话采用koa框架(koa 1)。
 
